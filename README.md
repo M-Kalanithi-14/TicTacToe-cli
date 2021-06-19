@@ -2,31 +2,31 @@
 
 ![tictactoe1](https://user-images.githubusercontent.com/74541319/122644722-56d16480-d134-11eb-9786-f96ee904a36d.png)
 
-For Downloading and Playing, please go to [PyPI](https://github.com/Programmin-in-Python/TicTacToe-cli)
+For Downloading and Playing, please go to [PyPI](https://pypi.org/project/TicTacToe3/)
 
 ## Installation
 ***Please Note :- Requires Python Version 3.x***
 
 **If there are 2 or more versions of Python installed in your system (which mostly occurs in UNIX/Linux systems) then please run any one of the commands in the BASH/ZSH Shell \:-**
-```bash
-$ pip3 install T3
+```console
+pip3 install TicTacToe3
 ```
-```bash
-$ python3 -m pip install T3
+```console
+python3 -m pip install TicTacToe3
 ```
 
 **If there is only Python 3.x installed in your system like in Windows systems then please run any one of commands in the Command Prompt \:-**
 ```console
-pip install T3
+pip install TicTacToe3
 ```
 ```console
-python -m pip install T3
+python -m pip install TicTacToe3
 ```
 
 ## Quick Guide
 ***Please Read till the END***
 
-- Import it using `import T3`.
+- Import it using `import TicTacToe3 as T3`.
 
 - Play the Game using `T3.play()`.
 
